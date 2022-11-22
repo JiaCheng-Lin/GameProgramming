@@ -1,10 +1,10 @@
 # untiy WebGL version
 
-normal version:
+Normal version:
 
 https://jiacheng-lin.github.io/GameProgramming/
 
-face control version:
+Face control version:
 
 https://jiacheng-lin.github.io/GameProgramming/GP_20221119_faceControl
 
