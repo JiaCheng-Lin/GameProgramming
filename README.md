@@ -1,13 +1,31 @@
-# Untiy WebGL version
+# Game Programming Untiy WebGL Version
 
-Normal version:
+### **2022/11/30 Update:**
 
-https://jiacheng-lin.github.io/GameProgramming/
+**Normal Version:** 
 
-Face control version: 
+https://jiacheng-lin.github.io/GameProgramming/GP_20221130_Normal
 
-2022/11/22: User turn head left and right -> Player goes left and goes right 
+<br>
+
+**Normal Version With VTuber** (The main view shows VTuber):
+
+
+
+
+<br>
+
+### **2022/11/22 Face control version:** 
+
+User turn head left and right -> Player goes left and goes right 
 
 https://jiacheng-lin.github.io/GameProgramming/GP_20221119_faceControl
 
+<br>
+
+### **2022/11/08 Normal version:** 
+
+Interact with keyboard and mouse
+
+https://jiacheng-lin.github.io/GameProgramming/GP_20221112_Normal
 
