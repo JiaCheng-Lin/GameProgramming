@@ -10,6 +10,9 @@ https://jiacheng-lin.github.io/GameProgramming/GP_20221130_Normal
 
 **Normal Version With VTuber** (The main view shows VTuber):
 
+Head turn right/left -> Player walks right/left, head up -> Player Jumps.
+
+https://jiacheng-lin.github.io/GameProgramming/GP_20221130_Face_Vtuber
 
 
 
@@ -17,7 +20,7 @@ https://jiacheng-lin.github.io/GameProgramming/GP_20221130_Normal
 
 ### **2022/11/22 Face control version:** 
 
-User turn head left and right -> Player goes left and goes right 
+User turn head left/right -> Player walks left/ right 
 
 https://jiacheng-lin.github.io/GameProgramming/GP_20221119_faceControl
 
