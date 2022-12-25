@@ -1,5 +1,12 @@
 # Game Programming Untiy WebGL Version
 
+### **2022/12/21 Update:**
+
+**Normal Version With VTuber** :
+https://jiacheng-lin.github.io/GameProgramming/GP_20221221
+
+<br>
+
 ### **2022/11/30 Update:**
 
 **Normal Version With VTuber** (The main view shows VTuber):
